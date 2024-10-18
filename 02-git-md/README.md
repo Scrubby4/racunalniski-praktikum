@@ -19,6 +19,7 @@ Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
 ```
 <kbd>Ctrl</kbd>
 ```
+
 <!-- konec bloka z izvorno kodo -->
 
 <!-- 2. nivojski razdelek -->
